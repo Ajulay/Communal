@@ -133,10 +133,6 @@ public void compute(){
         lblCntOverlRes.setText("");
         lblwtOt.setText("");
 
-      //  tfECnt1OneItm.setText("");
-      //  tfECnt2OneItm.setText("");
-      //  tfCntHtWtrOneItm.setText("");
-      //  tfCntCldWtrOneItm.setText("");
         tfECnt1Now.setText("");
         tfECnt2Now.setText("");
         tfECnt1Before.setText("");
